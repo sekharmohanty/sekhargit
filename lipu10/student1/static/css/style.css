@@ -1,0 +1,46 @@
+.first{
+    height: 30px;
+    
+  
+}
+.first1{
+    height: 30px;
+    background: rgb(155, 75, 247);
+}
+.first2{
+    height: 100px;
+    background: rgb(228, 241, 234);
+  
+}
+.fir{
+    height: 30px;
+   background: rgb(236, 187, 187);
+}
+.dbox{
+    height: 30px;
+    background: pink;
+}
+
+.ebox{
+    height: 30px;
+   background: rgb(250, 85, 85);
+}
+
+.fbox{
+    height: 30px;
+    background: rgb(64, 80, 133);
+}
+
+.gbox{
+    height: 30px;
+    background: rgb(250, 85, 85);
+}
+
+.hbox{
+    height: 30px;
+    background: yellow;
+}
+.adiv{
+    height: 30px;
+    background: yellowgreen;
+}
